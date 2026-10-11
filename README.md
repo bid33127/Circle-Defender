@@ -1,2 +1,2 @@
-i = invincible mode
+i = invincible mode,
 k = kill enemy instantly
